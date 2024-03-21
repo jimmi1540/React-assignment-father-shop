@@ -1,0 +1,25 @@
+
+
+  .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: transparent !important;
+  }
+  .MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+    border-color: transparent !important;
+
+    
+  }
+  .MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-formControl MuiInputBase-adornedStart css-1q6at85-MuiInputBase-root-MuiOutlinedInput-root
+  {
+    margin-left: -30px;
+  }
+  .css-1q6at85-MuiInputBase-root-MuiOutlinedInput-root
+  {
+    padding: 0 !important;
+  }
+
+  .signup-form button{
+  background-color: #f4f4f4;
+    border-radius: 0 0 0 0;
+    margin: 0px 0px 30px 9px;
+  }
+  
